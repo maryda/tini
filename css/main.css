@@ -7,8 +7,6 @@
 }
 
 
-
-
 ul{
  margin-left: 615px;
 }
@@ -27,19 +25,11 @@ a{
     color:#FFFFFF;
     text-decoration: none;
     font-size: 20px;
-    
-    
 }
 
 a:hover{
     background-color:#FACC2E;
-   
-     
 }
-
-
-
-
 
 .buttons1 {
     height: 47px;
@@ -56,10 +46,9 @@ a:hover{
 }
 
 .buttons1:hover{
-     background-color: #3399ff;
+    background-color: #3399ff;
     width: 167px;
     height:47px;
-
 }
 
 
@@ -68,8 +57,6 @@ a:hover{
     padding-left: 44%;
     padding-top: 25%;
     font-size: 50px;
-
-
 }
 
 .portafolio{
@@ -77,8 +64,6 @@ a:hover{
     padding-left: 45%;
     padding-top: 1%;
     font-size: 30px;
-
-    
 
 }
 
@@ -88,8 +73,6 @@ a:hover{
     background:#FCF8F8;
     margin: 0px auto;
 }
-
-
 
 
 
@@ -188,15 +171,12 @@ a:hover{
  max-width: 100%;
  margin-top: 50px;
 
-
 }  
 
 .cabecera{
     color: #FFFFFF;
     height: 45px;
     padding-left: 20px;
-
-
 
 }
 
