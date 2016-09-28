@@ -10,3 +10,4 @@
 
 Para mas informacion: [Ir a laboratoria(http://laboratoria.la/)]
 
+![Alt-Text](img/flujo.jpg)
